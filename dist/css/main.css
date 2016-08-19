@@ -95,13 +95,35 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+h1 {
+    display: block;
+    border:1px solid #000000;
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+}
 
+div {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
 
+#footer {
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+}
 
+#copywright {
+    float: left;
+    padding: 50px;
+}
 
-
-
-
+#credit {
+    float: right;
+    padding: 50px;
+}
 
 
 
